@@ -1,0 +1,12 @@
+<mjml>
+  <mj-body>
+        // 01.header.mjml
+    <mj-wrapper >
+        // 02.heroBanner.mjml
+        // 03.textFolder.mjml
+        // 04.subtTextFolder.mjml
+        // 05. buttonBuy.mjml 
+        // footer.mjml 
+    </mj-wrapper>
+  </mj-body>
+</mjml>

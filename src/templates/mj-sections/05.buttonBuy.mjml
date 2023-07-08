@@ -1,0 +1,9 @@
+<mj-section <%= mjSectionAttributes %>>
+  <mj-column <%= mjColumnAttributes %>>
+    <mj-button <%= mjButtonAttributes %>>
+      <span>
+        <%= mjButtonText %>
+      </span>
+    </mj-button>
+  </mj-column>
+</mj-section>

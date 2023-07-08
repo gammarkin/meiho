@@ -1,0 +1,11 @@
+/* eslint-disable sonarjs/no-duplicate-string */
+/* eslint-disable max-len */
+
+const baseTextFolder = [
+  { _id: { $oid: '6488b5907527eea3f541ffd1' }, mjSection: { backgroundRepeat: 'repeat', backgroundSize: 'auto', backgroundPosition: 'top center', border: 'none', direction: 'ltr', textAlign: 'center', padding: '0px 0px 0px 0px' }, mjColumn: { border: 'none', verticalAlign: 'top', padding: '0px' }, mjText: { align: 'left', fontSize: '40px', lineHeight: '50px', textTransform: 'uppercase', fontFamily: 'Big Caslon, Garamond', mjClass: 'headline-text', padding: '10px 25px 10px 25px', content: [{ style: 'text-align: center;', text: 'the wait is over', _id: { $oid: '6488b5907527eea3f541ffd2' } }] }, __v: { $numberInt: '0' } },
+];
+  
+export const createdTextFolder = { _id: { $oid: '6488b5907527eea3f541ffd1' }, mjSection: { backgroundRepeat: 'repeat', backgroundSize: 'auto', backgroundPosition: 'top center', border: 'none', direction: 'ltr', textAlign: 'center', padding: '0px 0px 0px 0px' }, mjColumn: { border: 'none', verticalAlign: 'top', padding: '0px' }, mjText: { align: 'left', fontSize: '40px', lineHeight: '50px', textTransform: 'uppercase', fontFamily: 'Big Caslon, Garamond', mjClass: 'headline-text', padding: '10px 25px 10px 25px', content: [{ style: 'text-align: center;', text: 'the wait is over', _id: { $oid: '6488b5907527eea3f541ffd2' } }] }, __v: { $numberInt: '0' } };
+export const textFolderToCreate = { mjSection: { backgroundRepeat: 'repeat', backgroundSize: 'auto', backgroundPosition: 'top center', border: 'none', direction: 'ltr', textAlign: 'center', padding: '0px 0px 0px 0px' }, mjColumn: { border: 'none', verticalAlign: 'top', padding: '0px' }, mjText: { align: 'left', fontSize: '40px', lineHeight: '50px', textTransform: 'uppercase', fontFamily: 'Big Caslon, Garamond', mjClass: 'headline-text', padding: '10px 25px 10px 25px', content: [{ style: 'text-align: center;', text: 'the wait is over', _id: { $oid: '6488b5907527eea3f541ffd2' } }] }, __v: { $numberInt: '0' } };
+  
+export default baseTextFolder;

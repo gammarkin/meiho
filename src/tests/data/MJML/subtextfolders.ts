@@ -1,0 +1,11 @@
+/* eslint-disable sonarjs/no-duplicate-string */
+/* eslint-disable max-len */
+
+const baseSubTextFolder = [
+  { _id: { $oid: '648a088ea4af1b4a7648b813' }, backgroundRepeat: 'repeat', backgroundSize: 'auto', backgroundPosition: 'top center', border: 'none', direction: 'ltr', textAlign: 'center', padding: '0px 0px 0px 0px', mjColumn: { border: 'none', verticalAlign: 'top', width: '480px', padding: '0px 0px 0px 0px', mjText: { align: 'left', mjClass: 'body-text', fontSize: '16px', lineHeight: '22px', padding: '10px 25px 10px 25px', innerHtml: '<div style="text-align: center;"><span style="word-spacing: normal;">Due to popular demand, our best-selling sandal is back. Get yours before they sell out again.</span></div>' } }, __v: { $numberInt: '0' } },
+];
+
+export const createdSubTextFolder = { _id: { $oid: '648a088ea4af1b4a7648b813' }, backgroundRepeat: 'repeat', backgroundSize: 'auto', backgroundPosition: 'top center', border: 'none', direction: 'ltr', textAlign: 'center', padding: '0px 0px 0px 0px', mjColumn: { border: 'none', verticalAlign: 'top', width: '480px', padding: '0px 0px 0px 0px', mjText: { align: 'left', mjClass: 'body-text', fontSize: '16px', lineHeight: '22px', padding: '10px 25px 10px 25px', innerHtml: '<div style="text-align: center;"><span style="word-spacing: normal;">Due to popular demand, our best-selling sandal is back. Get yours before they sell out again.</span></div>' } }, __v: { $numberInt: '0' } };
+export const subTextFolderToBeCreated = { backgroundRepeat: 'repeat', backgroundSize: 'auto', backgroundPosition: 'top center', border: 'none', direction: 'ltr', textAlign: 'center', padding: '0px 0px 0px 0px', mjColumn: { border: 'none', verticalAlign: 'top', width: '480px', padding: '0px 0px 0px 0px', mjText: { align: 'left', mjClass: 'body-text', fontSize: '16px', lineHeight: '22px', padding: '10px 25px 10px 25px', innerHtml: '<div style="text-align: center;"><span style="word-spacing: normal;">Due to popular demand, our best-selling sandal is back. Get yours before they sell out again.</span></div>' } }, __v: { $numberInt: '0' } };
+
+export default baseSubTextFolder;

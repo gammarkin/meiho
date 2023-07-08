@@ -1,0 +1,9 @@
+<mj-section <%= mjSectionAttributes %>>
+    <mj-column <%= mjColumnAttributes %>>
+        <mj-text <%= mjTextAttributes %>>
+            <p style="text-align: center;">
+              <%= mjSubTextFolderContent %>
+            </p>
+        </mj-text>
+    </mj-column>
+</mj-section>

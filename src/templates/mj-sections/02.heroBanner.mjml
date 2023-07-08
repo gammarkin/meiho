@@ -1,0 +1,5 @@
+<mj-section <%= mjSectionAttributes %>>
+    <mj-column <%= mjColumnAttributes %>>
+        <mj-image <%= mjLogoImageAttributes %> />
+    </mj-column>
+</mj-section>
